@@ -1,6 +1,6 @@
 # E-Commerce-Automation-Testing
 
-
+### Project Structure
 ![Settings Window](https://github.com/MandaGayatri/E-Commerce-Project-Automation-using-Selenium-/blob/main/Capture2.PNG)
 
 ## About Project
