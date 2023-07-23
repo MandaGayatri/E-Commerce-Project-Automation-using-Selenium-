@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "gautamproject_inetbank">
+<listeners>
+<listener class-name = "com.inetBanking.utilities.reports"/>
+</listeners>
+<test name = "BankingApp test">
+
+<parameter name = "browsers" value ="CHROME" /> 
+<classes>
+<class name = "com.inetBanking.TestCases.TC_LoginTest_001"/>
+<class name = "com.inetBanking.TestCases.LoginTestDDT_002"/>
+</classes>
+</test>
+
+
+
+
+
+
+
+
+</suite>
+
+
+
