@@ -1,7 +1,5 @@
 # E-Commerce-Automation-Testing
-
-
-
+## Project Structure
 ![Settings Window](https://github.com/MandaGayatri/E-Commerce-Automation-Testing/blob/main/Capture.PNG)
 
 ## About Project
@@ -111,3 +109,6 @@ we specify in the pom.xml file. This makes it easier for other developers to set
 9)Commons-lang3
 
 10)PageFactory
+## Project TestResult
+![Settings Window](https://github.com/MandaGayatri/E-Commerce-Project-Automation-using-Selenium-/blob/main/Capture1.PNG)
+
