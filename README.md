@@ -1,7 +1,7 @@
 # E-Commerce-Automation-Testing
 
 
-![Settings Window](https://github.com/MandaGayatri/E-Commerce-Automation-Testing/blob/main/Capture2.PNG)
+![Settings Window](https://github.com/MandaGayatri/E-Commerce-Project-Automation-using-Selenium-/blob/main/Capture1.PNG)
 
 ## About Project
 
